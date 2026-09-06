@@ -1,11 +1,11 @@
 # 📜 My Scripts
 This repository contains a collection of scripts that I use to automate niche tasks.
 
-## ffmpeg-loudness-check.sh
+## [ffmpeg-loudness-check.sh](scripts/ffmpeg-loudness-check.sh)
 Check the perceived loudness and peak levels of all audio files in a given directory.
 - Run with `-h` or `--help` for instructions
 
-## opusenc-converter.sh
+## [opusenc-converter.sh](scripts/opusenc-converter.sh)
 Convert almost any folder of supported audio files to Opus.
 
 - Preserve or remove metadata
