@@ -28,8 +28,8 @@ OUT_DIR=$(realpath "$OUT_DIR")
 # 2. Ask for bitrate
 echo ""
 while true; do
-    read -r -p "Enter target bitrate in kbps [Enter = 320]: " BITRATE
-    BITRATE="${BITRATE:-320}"
+    read -r -p "Enter target bitrate in kbps [Enter = 384]: " BITRATE
+    BITRATE="${BITRATE:-384}"
 
     if [[ "$BITRATE" =~ ^[1-9][0-9]*$ ]]; then
         break
