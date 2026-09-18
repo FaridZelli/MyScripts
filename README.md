@@ -1,5 +1,5 @@
 # 📜 My Scripts
-This repository contains a collection of scripts that I use to automate niche tasks.
+This repository contains a collection of scripts that I've created to automate niche tasks.
 
 ## [ffmpeg-loudness-check.sh](scripts/ffmpeg-loudness-check.sh)
 Check the perceived loudness and peak levels of all audio files in a given directory.
